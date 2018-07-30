@@ -1,0 +1,91 @@
+#ko_KR
+
+info.thermalinnovation.drill.a.0=지뢰가 레드스톤 Flux에 의해 작동됩니다.
+info.thermalinnovation.drill.b.0=§e(%s)§e키§f를 누르시면 드릴 영역을 조정할 수 있습니다.§r
+info.thermalinnovation.drill.c.0=단일 블럭
+info.thermalinnovation.drill.c.1=터널 : 1x2
+info.thermalinnovation.drill.c.2=영역 : 3x3
+info.thermalinnovation.drill.c.3=영역 : 3x3x3
+info.thermalinnovation.drill.c.4=영역 : 5x5
+
+info.thermalinnovation.magnet.a.0=아이템을 Wielder에 부착합니다.
+info.thermalinnovation.magnet.a.1=아이템을 타킷 위치를 끌어오는데 사용합니다.
+info.thermalinnovation.magnet.a.2=웅크릴때 사용합니다.
+info.thermalinnovation.magnet.b.0=§b(%s)키§f를 눌러 끌어오는걸 활성화합니다.§r
+info.thermalinnovation.magnet.b.1=§e(%s)키§f를 눌러 끌어오는걸 비활성화합니다.§r
+info.thermalinnovation.magnet.c.0=끌림 비활성화
+info.thermalinnovation.magnet.c.1=끌림 활성화
+
+info.thermalinnovation.injector.a.0=물약을 저장하고 주입하세요.. Wielder를 불어넣을 수 있습니다.
+info.thermalinnovation.injector.a.1=약을 주사하려면 엔티티에 사용하세요.
+info.thermalinnovation.injector.a.2=웅크릴때 주입하려면 사용하세요.
+info.thermalinnovation.injector.b.0=§b(%s)키§f를 눌러 자동으로 불어넣는걸 활성화합니다.§r
+info.thermalinnovation.injector.b.1=§e(%s)키§f를 눌러 자동으로 불어넣는걸 비활성화합니다. §r
+info.thermalinnovation.injector.c.0=자동으로 불어넣기 비활성화
+info.thermalinnovation.injector.c.1=자동으로 불어넣기 활성화
+info.thermalinnovation.injector.d=Effects:
+
+info.thermalinnovation.quiver.a.0=물약을 화살에 주입합니다.
+info.thermalinnovation.quiver.a.1=인벤토리의 화살을 화살통에 넣는 용도로 사용하세요.
+info.thermalinnovation.quiver.a.2=웅크려서 화살통에서 화살을 뺄 때 사용하세요.
+info.thermalinnovation.quiver.b.0=§b(%s)키§f를 눌러서 화살을 채우는걸 활성화합니다.§r
+info.thermalinnovation.quiver.b.1=§e(%s)키§f를 눌러서 화살을 채우는걸 비활성화합니다.§r
+info.thermalinnovation.quiver.c.0=채우기 비활성화
+info.thermalinnovation.quiver.c.1=채우기 활성화
+info.thermalinnovation.quiver.d=Effects:
+
+info.thermalinnovation.saw.a.0=레드스톤 Flux를 사용하여 블럭을 절단합니다.
+info.thermalinnovation.saw.b.0=§e(%s)키§f를 눌러 절단 부분을 조정합니다.§r
+info.thermalinnovation.saw.c.0=단일 블럭
+info.thermalinnovation.saw.c.1=터널 : 1x3
+info.thermalinnovation.saw.c.2=영역 : 3x3
+info.thermalinnovation.saw.c.3=영역 : 3x3x3
+info.thermalinnovation.saw.c.4=영역 : 5x5
+
+item.thermalinnovation.drill.creative.name=크리에이티브 Fluxbore
+item.thermalinnovation.drill.standard0.name=기본 Fluxbore
+item.thermalinnovation.drill.standard1.name=경화된 Fluxbore
+item.thermalinnovation.drill.standard2.name=강화된 Fluxbore
+item.thermalinnovation.drill.standard3.name=시그날룸 Fluxbore
+item.thermalinnovation.drill.standard4.name=공진 Fluxbore
+
+item.thermalinnovation.laser.creative.name= 크리에이티브 굴착 빔
+item.thermalinnovation.laser.standard0.name=기본 굴착 빔
+item.thermalinnovation.laser.standard1.name=경화된 굴착 빔
+item.thermalinnovation.laser.standard2.name=강화된 굴착 빔
+item.thermalinnovation.laser.standard3.name=시그날룸 굴착 빔
+item.thermalinnovation.laser.standard4.name=공진 굴착 빔
+
+item.thermalinnovation.magnet.creative.name=크리에이티브 Fluxomagnet
+item.thermalinnovation.magnet.name=Fluxomagnet
+item.thermalinnovation.magnet.standard0.name=기본 Fluxomagnet
+item.thermalinnovation.magnet.standard1.name=경화된 Fluxomagnet
+item.thermalinnovation.magnet.standard2.name=강화된 Fluxomagnet
+item.thermalinnovation.magnet.standard3.name=시그날룸 Fluxomagnet
+item.thermalinnovation.magnet.standard4.name=공진 Fluxomagnet
+
+item.thermalinnovation.injector.creative.name=크리에이티브 Hypoinfuser
+item.thermalinnovation.injector.standard0.name=기본 Hypoinfuser
+item.thermalinnovation.injector.standard1.name=경화된 Hypoinfuser
+item.thermalinnovation.injector.standard2.name=강화된 Hypoinfuser
+item.thermalinnovation.injector.standard3.name=시그날룸 Hypoinfuser
+item.thermalinnovation.injector.standard4.name=공진 Hypoinfuser
+
+item.thermalinnovation.quiver.creative.name=크리에이티브 연금술 통
+item.thermalinnovation.quiver.standard0.name=기본 연금술 통
+item.thermalinnovation.quiver.standard1.name=경화된 연금술 통
+item.thermalinnovation.quiver.standard2.name=강화된 연금술 통
+item.thermalinnovation.quiver.standard3.name=시그날룸 연금술 통
+item.thermalinnovation.quiver.standard4.name=공진 연금술 통
+
+item.thermalinnovation.saw.creative.name=크리에이티브 Fluxsaw
+item.thermalinnovation.saw.standard0.name=기본 Fluxsaw
+item.thermalinnovation.saw.standard1.name=경화된 Fluxsaw
+item.thermalinnovation.saw.standard2.name=강화된 Fluxsaw
+item.thermalinnovation.saw.standard3.name=시그날룸 Fluxsaw
+item.thermalinnovation.saw.standard4.name=공진 FluxsawR
+
+itemGroup.thermalinnovation.creativeTab=Thermal Innovationn
+
+tab.thermalinnovation.magnet.filter.0=Fluxomagnet 설정은 콘피그에서 확인해주세요..
+tab.thermalinnovation.magnet.filter.1=똑똑하네요? ㅋㅋ?
